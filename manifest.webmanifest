@@ -1,0 +1,37 @@
+{
+ "id": "./",
+ "name": "STUG Guarda — Transportes Urbanos",
+ "short_name": "STUG",
+ "description": "Planeador de viagens dos Transportes Urbanos da Guarda (horários programados).",
+ "lang": "pt-PT",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#f4f7fb",
+ "theme_color": "#0a5aa6",
+ "categories": [
+  "travel",
+  "navigation"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
